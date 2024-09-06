@@ -1,0 +1,13 @@
+python-dotenv
+
+pandas
+xlrd
+
+mysql-connector-python
+
+streamlit
+watchdog
+
+# leer archivos Excel en formato .xlsx y convertirlos en DataFrames, 
+#lo que te permite manipular esos datos de manera eficiente.
+openpyxl
